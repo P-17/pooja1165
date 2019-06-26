@@ -1,0 +1,34 @@
+Problem Defination:
+
+ Rockwell Automation inc. have headquarters in london and they have 35000 employee all over world branches.
+previously company uses private sector cloud  for thier it solutions which is limited for their own private london sectors.but as per growth of their company in diffrent places all over world they
+now company wanted to switch from private cloud for their It Solution to Amazon Web Services public cloud.
+the company have 35000 employess all over world and Employee should have access all human resource solution  portal from anywhere in world.and also company wanted to built and host information system in google cloud or they want AWS.
+
+
+
+Functional and Non-Functional Requirment:
+
+Non-Functional:
+
+Scalability
+Maintainability
+Cyber security
+Protection
+Accessibility
+Extendability
+
+
+Functional:
+
+Cloud availblity
+accessing data on portal
+registering on cloud service
+requesting for data
+
+
+
+
+
+
+  
