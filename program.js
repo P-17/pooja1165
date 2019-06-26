@@ -5,7 +5,7 @@ var employeeController=function (req, res) {
   console.log("CAlling rest api");
   var employee=[
             {firstName:'pooja',lastName:'pawar',age:23,status:'manager'},
-			{firstName:'prachi',lastName:'patil',age:23,status:'employee'},
+			{firstName:'patil',lastName:'patil',age:23,status:'employee'},
             {firstName:'gorprit',lastName:'shikh',age:23,status:'sales'},
             
             
