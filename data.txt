@@ -21,9 +21,14 @@ Extendability
 
 Functional:
 
+login to cloud service
+checking for validation employee
+updateing data
+inserting a data
 Cloud availblity
 accessing data on portal
 registering on cloud service
+
 requesting for data
 
 
